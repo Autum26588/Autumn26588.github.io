@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"New Character","characterIndex":0,"characterName":"New Character","classId":3,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"New Character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zander","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Character","characterIndex":0,"characterName":"Character","classId":4,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Christal","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Human","characterIndex":0,"characterName":"Human","classId":2,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Human","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eugene","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"1","characterIndex":0,"characterName":"1","classId":3,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rachel","nickname":"","note":"","profile":""}
+]
